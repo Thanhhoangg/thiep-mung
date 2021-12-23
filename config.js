@@ -1,8 +1,8 @@
-const nameGirl = 'Ngọc Thảo';
+const nameGirl = 'Hồng Nhung';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Happy Birthday';
-const titleCard = 'Gửi Ngọc Thảo';
-const contentCard = 'Chúc Thảo sinh nhật vui vẻ nha.Đón chào 1 tuổi 18 thật nhiều niềm vui🎂🎂.Ngày càng xinh đẹp😍.Cố gắng học thật giỏi, thật thành công và đạt được ước muốn hay đam mê gì đó. Cái qtrong nữa là chúc Thảo thật hp bên gd và người ấy sau này.  
+const eventName = 'Happy Birthday Bé Vịt';
+const titleCard = 'Gửi Bé Vịt cute';
+const contentCard = 'Qua hôm nay là tròn 18t rùi ha. Hết là con nít ranh rồi,
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
